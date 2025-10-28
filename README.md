@@ -1,1 +1,1 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20einblatt&textBg=false&desc=Blockchain%20|%20Smart%20Contract|%20Defi&section=header&reversal=false&descAlignY=66)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1C1729,50:2B2340,100:1C1729&text=Hi%20I%27m%20einblatt&textBg=false&fontColor=f0f0f5&desc=Blockchain%20|%20Smart%20Contract%20|%20Defi&descAlignY=67)
